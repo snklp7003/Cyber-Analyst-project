@@ -281,18 +281,6 @@ git push -u origin main
 
 ---
 
-## 📑 12. Included Documentation & Presentation Files
-
-This repository includes standalone documentation files stored directly in the project root:
-
-- 📄 **`Phishing_Domain_Generator_and_Quishing_Scanner_Project_Report.pdf`**  
-  *A comprehensive, 10-topic technical defense report written in simple words.*
-- 📊 **`Phishing_Domain_Generator_and_Quishing_Scanner_Presentation.pptx`**  
-  *A 6-slide widescreen (16:9) PowerPoint presentation with embedded reference graphics.*
-- 📄 **`Phishing_Domain_Generator_and_Quishing_Scanner_Presentation_Slides.pdf`**  
-  *A 16:9 presentation PDF slide deck ready to present on any device.*
-
----
 
 ## 🔗 13. Git Repository & Author Info
 
