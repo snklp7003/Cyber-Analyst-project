@@ -1,9 +1,7 @@
 # 🛡️ Phishing Domain Generator & Quishing Scanner
 
 ## Website made by this code
-To open website = ## 🌐 Live Demo
-[Open URLVault](https://url-vault-hihg.onrender.com)
-
+To open website =<a href="https://url-vault-hihg.onrender.com" target="_blank">🌐 Open URLVault</a>
 <p align="center">
   <img src="https://img.shields.io/badge/Security-Defensive_Triage-0284c7?style=for-the-badge&logo=shield" alt="Security Suite" />
   <img src="https://img.shields.io/badge/TypeScript-7.0-blue?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
